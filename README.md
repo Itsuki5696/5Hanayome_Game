@@ -2,8 +2,8 @@
 The Quintessential Quintuplets Games
 
 ## Game list
-* The Quintessential Quintuplets: Five Promises Made with Her (五等分の花嫁　彼女と交わす五つの約束)
-* The Quintessential Quintuplets: Five Memories of My Time with You (五等分の花嫁　君と過ごした五つの思い出)
+* The Quintessential Quintuplets: Five Promises Made with Her (五等分の花嫁 彼女と交わす五つの約束)
+* The Quintessential Quintuplets: Five Memories of My Time with You (五等分の花嫁 君と過ごした五つの思い出)
 * The Quintessential Quintuplets: Summer Memories Also Come in Five (五等分の花嫁 夏の思い出も五等分)
 
 ## Download packed games
