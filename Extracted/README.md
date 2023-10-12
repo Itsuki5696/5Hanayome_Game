@@ -1,10 +1,12 @@
 # Introduction
 Games running on Kaleido ADV workshop platform are all encrypted. The key is storaged in the main file, but the position of the key varies between games. According to the author of [KaleidoKeyFinderSwitch](https://github.com/Manicsteiner/KaleidoKeyFinderSwitch), there isn't a perfect method to find the key. However, there are four same properties of keys in every game:
 
-1. The key should be a string of 13 characters. Games on other platforms may have exceptions.
-2. The former byte of this string is always \x00.
+1. The key should be a string contains 13 characters. Games on other platforms may have exceptions.
+2. The previous byte of this string is always ```\x00```.
 3. The string always contains and only contains numbers and letters, including capital letters.
 4. The string is always meaningless and you can not separate any meaningful word from the string.
+
+The author mentioned above tested their code using Anonymous;Code(JP), Gotoubun Five memories and Gotoubun Summer memories. Results seem to be successful, but the code could not find the key when scanning Anonymous;Code(Eng) since the last letter of the string is a character other than letters and numbers.
 
 ## Key
 ```
